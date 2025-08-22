@@ -20,5 +20,3 @@ C++ – Core implementation.
 OpenCV – Color detection and image processing.
 
 Backtracking Algorithm – Optimal solution generation.
-
-✅ This looks professional, clean, and structured, with
