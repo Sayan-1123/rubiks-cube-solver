@@ -39,3 +39,17 @@ make
 ./rubiks_solver
 
 
+## 📌 Future Improvements
+- ✅ Support for 2×2 and 4×4 cubes  
+- ✅ GUI for interactive solving  
+- ✅ Mobile/embedded deployment  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
