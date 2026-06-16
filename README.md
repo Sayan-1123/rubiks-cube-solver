@@ -1,4 +1,4 @@
-# Rubik's  Cube  Solver 🧩
+# Rubik's Cube Solver 🧩
 
 A **Rubik’s Cube Solver** built in **C++**, designed to detect cube colors in real time using **OpenCV** and solve it using an optimized **backtracking algorithm**.
 
